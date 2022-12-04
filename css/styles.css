@@ -1,0 +1,86 @@
+/* Developed by Jahongir Murodboev */
+
+/* GLOBAL */
+html {
+  box-sizing: border-box;
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #18216D !important;
+}
+
+.my-nav-logo:hover {
+  opacity: 0.8 !important;
+}
+.my-nav-logo:active {
+  opacity: 0.6 !important;
+}
+.my-nav-link {
+  color: #18216D !important;
+}
+.my-nav-link:hover {
+  opacity: 0.8;
+}
+.my-nav-link:active {
+  opacity: 0.6;
+}
+.my-nav-btn {
+  background: #18216D !important;
+  border: none !important;
+  padding: 9px 22px !important;
+  border: 1px solid #18216D !important;
+  transition: 0.1s ease-in-out !important;
+}
+.my-nav-btn:hover {
+  opacity: 0.8 !important;
+}
+.my-nav-btn:active {
+  opacity: 0.6 !important;
+}
+
+.my-home-btn {
+  background: #00ECD0 !important;
+  border: none !important;
+  color: #18216D !important;
+  font-size: 15px !important;
+}
+.my-home-btn:hover {
+  opacity: 0.9 !important;
+}
+.my-home-btn:active {
+  opacity: 0.7 !important;
+}
+
+.my-hero-img:hover {
+  opacity: 0.8 !important;
+}
+.my-hero-img:active {
+  opacity: 0.6 !important;
+}
+
+.my-about-link {
+  text-decoration: none !important;
+  color: #18216D !important;
+}
+.my-about-link:hover {
+  opacity: 0.9 !important;
+}
+.my-about-link:active {
+  opacity: 0.7 !important;
+}
+
+.myhero {
+  background: #ebf4ff;
+  color: #18216D;
+}
+
+/* Developed by Jahongir Murodboev */
